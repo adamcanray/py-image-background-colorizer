@@ -2,7 +2,7 @@
 
 This is a simple Python script that allows you to change the background color of an image to any color of your choice. The script takes an image file as input and outputs a new image file with the background color changed.
 
-> I use this because my current laptop does'nt have photoshop and I have trust issue to try online tools on internet. so i decide to create this simple shi'🤪.
+> I'm using this because my laptop doesn't currently have photoshop and I have trust issues trying online tools on the internet. so i decided to make this simple shi'🤪.
 
 ## Usage
 
